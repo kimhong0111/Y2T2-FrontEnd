@@ -8,7 +8,7 @@ import { ENGLISH_RESULTS } from "./data";
 function App() {
   return (
     <>
-     <Header />
+     <Header  batchName={"GEN11"}/>
 
 
       <main className="scores-container">
